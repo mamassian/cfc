@@ -1,0 +1,2 @@
+# cfc
+Confidence Forced-Choice
