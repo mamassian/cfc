@@ -74,7 +74,7 @@ params_val.intrvl_bias = intrvl_bias;
 raw_data = cfc_simul_discrim(simul_params, params_val);
 
 % -> prepare the data for plots and fit
-[grouped_data, conf_choice_prob] = cfc_group(raw_data);
+grouped_data = cfc_group(raw_data);
 
 % -> plot Type 1 psychometric functions
 cfc_plot(grouped_data, 'type1_psychometric', true);
