@@ -82,15 +82,6 @@
 %   cfc_struct.choice_prob_model            full-model choice probabilities
 %   cfc_struct.loglike                      log-likelihood of best fit
 %
-% -> obsolete
-%   cfc_struct.chosen_noise1       sensory noise for chosen
-%   cfc_struct.chosen_crit1        sensory criterion for chosen
-%   cfc_struct.nn1_ideal           ideal responses
-%   cfc_struct.nn1_super_ideal     super-ideal responses
-%   cfc_struct.tmp_noise2eq        equivalent noise 2 for ideal perf
-%   cfc_struct.tmp_noise2dat       equivalent noise 2 for human perf
-%   cfc_struct.nn1_eff             efficiency responses
-%   cfc_struct.nn1_full            full-model responses
 % 
 % EXAMPLES OF USE:
 %   cfc_struct = cfc_fit(grouped_data)
