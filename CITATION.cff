@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mamassian"
+  given-names: "Pascal"
+  orcid: "https://orcid.org/0000-0002-1605-4607"
+title: "cfc"
+version: 1.0.0
+doi: 10.5281/zenodo.7791435
+date-released: 2023-04-01
+url: "https://doi.org/10.5281/zenodo.7791435"
